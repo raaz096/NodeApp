@@ -16,7 +16,6 @@ server.listen(8888);
 */
 
 // We could also achieve the same by refactoring our code to :
-var a;
 
 var http = require("http");
 
